@@ -13,5 +13,5 @@ designation within two accepted Endowment categories: "chapter computer
 equipment & software" and "books, texts and other resource materials to
 be maintained in the chapter library/study room."
 
-[1] https://drive.google.com/file/d/1WK7ZrsHV7QyPse3vc_2zdbSr0On7RZ1F/view
-[2] https://drive.google.com/file/d/1KnOl8gXyvpWhoEBDjOHz0xvy3VyodMHA/view
+[1]: https://drive.google.com/file/d/1WK7ZrsHV7QyPse3vc_2zdbSr0On7RZ1F/view
+[2]: https://drive.google.com/file/d/1KnOl8gXyvpWhoEBDjOHz0xvy3VyodMHA/view
